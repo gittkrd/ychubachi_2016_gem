@@ -2,3 +2,7 @@ test
 
 git checkout -b takarada
 でブランチ作るんだよ。
+
+
+ブランチtakarada3でテキストを変更したよ。
+これでコンフリクトを発生させてみせる。

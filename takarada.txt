@@ -1,1 +1,4 @@
 test
+
+git checkout -b takarada
+でブランチ作るんだよ。

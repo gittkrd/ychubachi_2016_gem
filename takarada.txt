@@ -2,3 +2,8 @@ test
 
 git checkout -b takarada
 でブランチ作るんだよ。
+
+takarada5ブランチ作成したよ。
+
+
+
